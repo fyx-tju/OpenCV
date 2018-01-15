@@ -1,0 +1,7 @@
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/install.dir
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/list_install_components.dir
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/rebuild_cache.dir
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/opencv.dir
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/install/strip.dir
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/install/local.dir
+/home/fyx/git-workspace/OpenCV/opencv/build/CMakeFiles/edit_cache.dir
